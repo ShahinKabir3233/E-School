@@ -181,9 +181,6 @@ h1, h2, h3, h4, h5, h6{
 	float: right;
 	margin-right: 15px;
 }
-.profile .col-sm-12 img{
-	float: left;
-}
 .testimonial .profile .card{
 	border: none;
 }
